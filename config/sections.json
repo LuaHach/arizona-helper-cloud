@@ -1,0 +1,1592 @@
+[
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/1772/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/123/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/125/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/128/",
+    "scope": "military"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/1382/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/348/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/236/",
+    "scope": "military"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/1682/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/287/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/371/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/372/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/374/",
+    "scope": "military"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/2969/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/548/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/549/",
+    "scope": "military"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/691/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/692/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/698/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/770/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/771/",
+    "scope": "military"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/847/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/850/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/856/",
+    "scope": "military"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/965/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/968/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/982/",
+    "scope": "military"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1069/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1543/",
+    "scope": "military"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1144/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1145/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1155/",
+    "scope": "military"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/3184/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1243/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1254/",
+    "scope": "military"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1302/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1305/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1309/",
+    "scope": "military"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1415/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1416/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1418/",
+    "scope": "military"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/3200/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/3907/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1486/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1487/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1489/",
+    "scope": "military"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1650/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1601/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1611/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1625/",
+    "scope": "military"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/link-forums/2982/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1710/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1714/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1716/",
+    "scope": "military"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1800/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1801/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1803/",
+    "scope": "military"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1924/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1934/",
+    "scope": "military"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2047/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2007/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2013/",
+    "scope": "military"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2147/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2150/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2152/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2154/",
+    "scope": "military"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2321/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2329/",
+    "scope": "military"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2480/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2491/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2501/",
+    "scope": "military"
+  },
+  {
+    "serverId": "wednesday",
+    "url": "https://forum.arizona-rp.com/forums/2580/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "wednesday",
+    "url": "https://forum.arizona-rp.com/forums/2581/",
+    "scope": "military"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/3190/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2774/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2775/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2776/",
+    "scope": "military"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2974/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2926/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2935/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2984/",
+    "scope": "military"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3083/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3021/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3023/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3025/",
+    "scope": "military"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3121/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3123/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3218/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3219/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3220/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3273/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3309/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3311/",
+    "scope": "military"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3554/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3563/",
+    "scope": "military"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3801/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3814/",
+    "scope": "military"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/3996/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4006/",
+    "scope": "military"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/395/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/18/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/27/",
+    "scope": "police"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/531/",
+    "scope": "police"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/433/",
+    "scope": "police"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/33/",
+    "scope": "military"
+  },
+  {
+    "serverId": "phoenix",
+    "url": "https://forum.arizona-rp.com/forums/590/",
+    "scope": "military"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/176/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/173/",
+    "scope": "police"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/534/",
+    "scope": "police"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/445/",
+    "scope": "police"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/178/",
+    "scope": "military"
+  },
+  {
+    "serverId": "tucson",
+    "url": "https://forum.arizona-rp.com/forums/591/",
+    "scope": "military"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/288/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/289/",
+    "scope": "police"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/535/",
+    "scope": "police"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/452/",
+    "scope": "police"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/1288/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/29/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/391/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/392/",
+    "scope": "police"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/538/",
+    "scope": "police"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/459/",
+    "scope": "police"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/566/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/567/",
+    "scope": "police"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/565/",
+    "scope": "police"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/606/",
+    "scope": "police"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/571/",
+    "scope": "military"
+  },
+  {
+    "serverId": "brainburg",
+    "url": "https://forum.arizona-rp.com/forums/594/",
+    "scope": "military"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/734/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/693/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/694/",
+    "scope": "police"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/695/",
+    "scope": "police"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/696/",
+    "scope": "police"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/699/",
+    "scope": "military"
+  },
+  {
+    "serverId": "saint-rose",
+    "url": "https://forum.arizona-rp.com/forums/700/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/777/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/778/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/779/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/780/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/782/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/783/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/1046/",
+    "scope": "police"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/848/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/892/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/851/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/852/",
+    "scope": "police"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/853/",
+    "scope": "police"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/857/",
+    "scope": "military"
+  },
+  {
+    "serverId": "red-rock",
+    "url": "https://forum.arizona-rp.com/forums/858/",
+    "scope": "military"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/966/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/1049/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/969/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/973/",
+    "scope": "police"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/974/",
+    "scope": "police"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/976/",
+    "scope": "police"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/983/",
+    "scope": "military"
+  },
+  {
+    "serverId": "yuma",
+    "url": "https://forum.arizona-rp.com/forums/984/",
+    "scope": "military"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1070/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1074/",
+    "scope": "police"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1112/",
+    "scope": "police"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1079/",
+    "scope": "military"
+  },
+  {
+    "serverId": "surprise",
+    "url": "https://forum.arizona-rp.com/forums/1115/",
+    "scope": "military"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1210/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1146/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1147/",
+    "scope": "police"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1148/",
+    "scope": "police"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1149/",
+    "scope": "police"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/3440/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1156/",
+    "scope": "military"
+  },
+  {
+    "serverId": "prescott",
+    "url": "https://forum.arizona-rp.com/forums/1157/",
+    "scope": "military"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1246/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1252/",
+    "scope": "police"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1250/",
+    "scope": "police"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1251/",
+    "scope": "police"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1255/",
+    "scope": "military"
+  },
+  {
+    "serverId": "glendale",
+    "url": "https://forum.arizona-rp.com/forums/1256/",
+    "scope": "military"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1465/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1348/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1306/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1340/",
+    "scope": "police"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1342/",
+    "scope": "police"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1341/",
+    "scope": "police"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1310/",
+    "scope": "military"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1434/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1436/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1442/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1447/",
+    "scope": "police"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1448/",
+    "scope": "police"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1449/",
+    "scope": "police"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1454/",
+    "scope": "military"
+  },
+  {
+    "serverId": "winslow",
+    "url": "https://forum.arizona-rp.com/forums/1455/",
+    "scope": "military"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1576/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1512/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1496/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1497/",
+    "scope": "police"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1498/",
+    "scope": "police"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1504/",
+    "scope": "military"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/1505/",
+    "scope": "military"
+  },
+  {
+    "serverId": "payson",
+    "url": "https://forum.arizona-rp.com/forums/2903/",
+    "scope": "military"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1602/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1604/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1616/",
+    "scope": "police"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1617/",
+    "scope": "police"
+  },
+  {
+    "serverId": "gilbert",
+    "url": "https://forum.arizona-rp.com/forums/1620/",
+    "scope": "police"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1726/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1727/",
+    "scope": "police"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1728/",
+    "scope": "police"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1810/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1876/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1819/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1820/",
+    "scope": "police"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1821/",
+    "scope": "police"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1837/",
+    "scope": "military"
+  },
+  {
+    "serverId": "casa-grande",
+    "url": "https://forum.arizona-rp.com/forums/1838/",
+    "scope": "military"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1925/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1930/",
+    "scope": "police"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1931/",
+    "scope": "police"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1932/",
+    "scope": "police"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1935/",
+    "scope": "military"
+  },
+  {
+    "serverId": "page",
+    "url": "https://forum.arizona-rp.com/forums/1936/",
+    "scope": "military"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2008/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2009/",
+    "scope": "police"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2010/",
+    "scope": "police"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2011/",
+    "scope": "police"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2014/",
+    "scope": "military"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2015/",
+    "scope": "military"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2159/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2168/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2169/",
+    "scope": "police"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2170/",
+    "scope": "police"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/3203/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/3436/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2176/",
+    "scope": "military"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2177/",
+    "scope": "military"
+  },
+  {
+    "serverId": "queen-creek",
+    "url": "https://forum.arizona-rp.com/forums/2375/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2322/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2325/",
+    "scope": "police"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2326/",
+    "scope": "police"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2330/",
+    "scope": "military"
+  },
+  {
+    "serverId": "sedona",
+    "url": "https://forum.arizona-rp.com/forums/2331/",
+    "scope": "military"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2481/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2486/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2492/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2497/",
+    "scope": "police"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2498/",
+    "scope": "police"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2499/",
+    "scope": "police"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2502/",
+    "scope": "military"
+  },
+  {
+    "serverId": "holiday",
+    "url": "https://forum.arizona-rp.com/forums/2503/",
+    "scope": "military"
+  },
+  {
+    "serverId": "wednesday",
+    "url": "https://forum.arizona-rp.com/forums/2597/",
+    "scope": "police"
+  },
+  {
+    "serverId": "wednesday",
+    "url": "https://forum.arizona-rp.com/forums/2602/",
+    "scope": "military"
+  },
+  {
+    "serverId": "wednesday",
+    "url": "https://forum.arizona-rp.com/forums/2603/",
+    "scope": "military"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2792/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2794/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2805/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2806/",
+    "scope": "police"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2807/",
+    "scope": "police"
+  },
+  {
+    "serverId": "yava",
+    "url": "https://forum.arizona-rp.com/forums/2811/",
+    "scope": "military"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2927/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2930/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2936/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2942/",
+    "scope": "police"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2943/",
+    "scope": "police"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2985/",
+    "scope": "military"
+  },
+  {
+    "serverId": "faraway",
+    "url": "https://forum.arizona-rp.com/forums/2986/",
+    "scope": "military"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3028/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3030/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3040/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3041/",
+    "scope": "police"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3042/",
+    "scope": "police"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3055/",
+    "scope": "military"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3054/",
+    "scope": "military"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3129/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3135/",
+    "scope": "police"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3136/",
+    "scope": "police"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3137/",
+    "scope": "police"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3149/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3224/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3225/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3235/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3236/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3237/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3238/",
+    "scope": "police"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3244/",
+    "scope": "military"
+  },
+  {
+    "serverId": "mirage",
+    "url": "https://forum.arizona-rp.com/forums/3245/",
+    "scope": "military"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3325/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3326/",
+    "scope": "police"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3327/",
+    "scope": "police"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3364/",
+    "scope": "police"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3335/",
+    "scope": "military"
+  },
+  {
+    "serverId": "love",
+    "url": "https://forum.arizona-rp.com/forums/3336/",
+    "scope": "military"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3555/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3559/",
+    "scope": "police"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3560/",
+    "scope": "police"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3564/",
+    "scope": "military"
+  },
+  {
+    "serverId": "drake",
+    "url": "https://forum.arizona-rp.com/forums/3565/",
+    "scope": "military"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3802/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3806/",
+    "scope": "police"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3807/",
+    "scope": "police"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3808/",
+    "scope": "police"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3815/",
+    "scope": "military"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3816/",
+    "scope": "military"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/3997/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4002/",
+    "scope": "police"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4003/",
+    "scope": "police"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4004/",
+    "scope": "police"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4007/",
+    "scope": "military"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/4008/",
+    "scope": "military"
+  },
+  {
+    "serverId": "scottdale",
+    "url": "https://forum.arizona-rp.com/forums/667/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "chandler",
+    "url": "https://forum.arizona-rp.com/forums/3427/",
+    "scope": "shared_or_legislation"
+  },
+  {
+    "serverId": "mesa",
+    "url": "https://forum.arizona-rp.com/forums/1533/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "kingman",
+    "url": "https://forum.arizona-rp.com/forums/1371/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "show-low",
+    "url": "https://forum.arizona-rp.com/forums/1734/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "sun-city",
+    "url": "https://forum.arizona-rp.com/forums/2058/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "bumble-bee",
+    "url": "https://forum.arizona-rp.com/forums/3045/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3132/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "christmas",
+    "url": "https://forum.arizona-rp.com/forums/3133/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3803/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "space",
+    "url": "https://forum.arizona-rp.com/forums/3804/",
+    "scope": "fbi"
+  },
+  {
+    "serverId": "home",
+    "url": "https://forum.arizona-rp.com/forums/3999/",
+    "scope": "fbi"
+  }
+]

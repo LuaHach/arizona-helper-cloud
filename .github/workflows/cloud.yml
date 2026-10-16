@@ -1,0 +1,71 @@
+name: Refresh rules and publish Pages
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: 'Refresh forum sources before publishing (initial deployment can use saved data)'
+        type: boolean
+        default: false
+concurrency:
+  group: rules-cloud
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install collector dependencies
+        run: |
+          pip install -r requirements.txt lupa==2.6
+          python -m playwright install --with-deps chromium
+      - name: Restore SQLite snapshot
+        run: python -c "import gzip,pathlib; p=pathlib.Path('data/rules.sqlite3'); p.write_bytes(gzip.decompress(pathlib.Path(str(p)+'.gz').read_bytes()))"
+      - name: Generate initial exports from restored snapshot
+        run: python manage.py export
+      - name: Regression tests before network collection
+        run: |
+          python -m unittest discover -s tests -p 'test_automation.py' -v
+          python tests/test_database.py
+      - name: Refresh public sources and export JSON
+        if: github.event_name != 'workflow_dispatch' || inputs.collect == true
+        run: python automation/pipeline.py --browser --limit 80 --sections 6 --max-pages 40
+      - name: Preserve source status in published site
+        run: cp data/last-run.json public/status.json
+      - name: Verify exported data
+        run: python tests/test_database.py
+      - name: Keep snapshot for the next scheduled run
+        run: |
+          python -c "import gzip,pathlib; p=pathlib.Path('data/rules.sqlite3'); pathlib.Path(str(p)+'.gz').write_bytes(gzip.compress(p.read_bytes(),mtime=0))"
+          git config user.name "Arizona Rules Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/rules.sqlite3.gz data/last-run.json
+          git diff --cached --quiet || git commit -m "Update source snapshot [skip ci]"
+          git push
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: collector-report
+          path: data/last-run.json
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

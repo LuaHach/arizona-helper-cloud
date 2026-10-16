@@ -1,0 +1,301 @@
+{
+  "arizona": [
+    {
+      "number": 13,
+      "name": "Kingman",
+      "ip": "kingman.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "kingman.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 32,
+      "name": "Space",
+      "ip": "space.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "drake.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 33,
+      "name": "Home",
+      "ip": "home.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "drake.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Tucson",
+      "ip": "tucson.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "tucson.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Yuma",
+      "ip": "yuma.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "yuma.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Casa-Grande",
+      "ip": "casagrande.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "casagrande.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 1,
+      "name": "Phoenix",
+      "ip": "phoenix.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "phoenix.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 31,
+      "name": "Drake",
+      "ip": "drake.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "drake.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Mesa",
+      "ip": "mesa.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "mesa.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 30,
+      "name": "Love",
+      "ip": "love.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "love.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 27,
+      "name": "Bumble Bee",
+      "ip": "bumblebee.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "bumblebee.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Red-Rock",
+      "ip": "redrock.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "redrock.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Scottdale",
+      "ip": "scottdale.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "scottdale.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Brainburg",
+      "ip": "brainburg.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "brainburg.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 29,
+      "name": "Mirage",
+      "ip": "mirage.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "mirage.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Saint-Rose",
+      "ip": "saintrose.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "saintrose.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Winslow",
+      "ip": "winslow.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "winslow.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 20,
+      "name": "Sun-City",
+      "ip": "suncity.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "suncity.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Chandler",
+      "ip": "chandler.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "chandler.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 22,
+      "name": "Sedona",
+      "ip": "sedona.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "sedona.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Payson",
+      "ip": "payson.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "payson.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 23,
+      "name": "Holiday",
+      "ip": "holiday.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "holiday.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Glendale",
+      "ip": "glendale.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "glendale.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 24,
+      "name": "Wednesday",
+      "ip": "wednesday.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "wednesday.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 26,
+      "name": "Faraway",
+      "ip": "faraway.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "faraway.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Surprise",
+      "ip": "surprise.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "surprise.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 28,
+      "name": "Christmas",
+      "ip": "christmas.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "christmas.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Prescott",
+      "ip": "prescott.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "prescott.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 25,
+      "name": "Yava",
+      "ip": "yava.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "yava.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 19,
+      "name": "Page",
+      "ip": "page.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "page.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Show Low",
+      "ip": "showlow.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "showlow.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 21,
+      "name": "Queen-Creek",
+      "ip": "queencreek.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "queencreek.arizona-rp.com"
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Gilbert",
+      "ip": "gilbert.arizona-rp.com",
+      "port": 7777,
+      "additionalIps": [
+        "gilbert.arizona-rp.com"
+      ]
+    }
+  ]
+}

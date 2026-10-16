@@ -1,0 +1,2 @@
+PASS: SQLite integrity/FKs, 36 JSON exports, 712 documents, UTF-8 chunks, size limits, isolated binding/export, actual Helper Lua validator and wrong-server rejection.
+NOT TESTED: live HTTPS hosting, current forum validity, GTA/MoonLoader network download.

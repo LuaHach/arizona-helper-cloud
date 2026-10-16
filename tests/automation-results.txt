@@ -1,0 +1,18 @@
+test_cap_rejects_partial_snapshot (test_automation.AutomationTests.test_cap_rejects_partial_snapshot) ... ok
+test_challenge_is_not_a_rule (test_automation.AutomationTests.test_challenge_is_not_a_rule) ... ok
+test_failed_launcher_keeps_bindings (test_automation.AutomationTests.test_failed_launcher_keeps_bindings) ... ok
+test_failure_leaves_database (test_automation.AutomationTests.test_failure_leaves_database) ... ok
+test_fetch_success_without_content_change (test_automation.AutomationTests.test_fetch_success_without_content_change) ... ok
+test_mapping_requires_number_and_name (test_automation.AutomationTests.test_mapping_requires_number_and_name) ... ok
+test_pagination_all_pages (test_automation.AutomationTests.test_pagination_all_pages) ... ok
+test_parse_and_scripts_not_executed (test_automation.AutomationTests.test_parse_and_scripts_not_executed) ... ok
+test_repeated_additional_alias_never_trusted (test_automation.AutomationTests.test_repeated_additional_alias_never_trusted) ... ok
+test_revision_is_retained_and_unreviewed (test_automation.AutomationTests.test_revision_is_retained_and_unreviewed) ... ok
+test_shared_dns_address_excluded (test_automation.AutomationTests.test_shared_dns_address_excluded) ... ok
+test_source_url_allowlist (test_automation.AutomationTests.test_source_url_allowlist) ... ok
+test_versions_deterministic_and_content_sensitive (test_automation.AutomationTests.test_versions_deterministic_and_content_sensitive) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.225s
+
+OK
